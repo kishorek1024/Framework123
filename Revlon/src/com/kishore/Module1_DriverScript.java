@@ -6,6 +6,7 @@ public class Module1_DriverScript {
 		
 		Revlon_Module1 module1=new Revlon_Module1();
 		module1.Revlon_TC01();
+		module1.Revlon_TC01();
 
 	}
 
